@@ -13,3 +13,8 @@ wheels/
 tests/
 my_backup.md
 .env
+
+# personal files
+*.ipynb
+__pycache__/
+*.pyc
